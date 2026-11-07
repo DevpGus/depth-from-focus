@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+# opencv-python>=4.13.0.92
+opencv-python-headless
+scipy
+streamlit
+pillow
+plotly
+open3d
